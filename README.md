@@ -1,4 +1,4 @@
 # MarsSpiral
 
-This is for a small cosing assignment.
+This is for a small coding assignment.
 
