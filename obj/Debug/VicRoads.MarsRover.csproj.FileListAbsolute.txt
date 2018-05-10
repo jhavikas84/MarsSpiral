@@ -1,0 +1,7 @@
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\bin\Debug\VicRoads.MarsRover.exe.config
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\bin\Debug\VicRoads.MarsRover.exe
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\bin\Debug\VicRoads.MarsRover.pdb
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\obj\Debug\VicRoads.MarsRover.csprojResolveAssemblyReference.cache
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\obj\Debug\VicRoads.MarsRover.csproj.CoreCompileInputs.cache
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\obj\Debug\VicRoads.MarsRover.exe
+c:\users\jhavi\source\repos\VicRoads.MarsRover\VicRoads.MarsRover\obj\Debug\VicRoads.MarsRover.pdb
